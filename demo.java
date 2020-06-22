@@ -4,3 +4,7 @@ class demo {
 		System.out.println("HI!");
 	}
 }
+
+class Solver {
+	void solve();
+}
